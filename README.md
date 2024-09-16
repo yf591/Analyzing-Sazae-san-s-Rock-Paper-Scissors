@@ -1,6 +1,4 @@
-# Analyzing-Sazae-san-s-Rock-Paper-Scissors
-
-# サザエさんのじゃんけん予測モデル
+# Analyzing-Sazae-san-s-Rock-Paper-Scissors / サザエさんのじゃんけん予測モデル
 
 ## 概要
 このリポジトリは、サザエさんのじゃんけん結果をLightGBMを用いて予測するモデルの実装です。
