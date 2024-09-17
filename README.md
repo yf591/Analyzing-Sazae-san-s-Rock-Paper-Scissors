@@ -75,7 +75,12 @@
 このコードはMITライセンスで公開されています。
 
 ## 作者
+
 yf591
+
+## 参照
+
+* サザエさんじゃんけん研究所: [サザエさんじゃんけん研究所公式ウェブサイト(Sazaesan-janken laboratory official website)](http://park11.wakwak.com/~hkn/)
 
 
 
